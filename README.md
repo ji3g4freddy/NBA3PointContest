@@ -1,5 +1,5 @@
 # NBA Three-Point Contest
-(Final Project for IS590PR)
+Final Project for IS590PR
 
 ## Team Member(s): 
 MingFu Chou, Wenhao Hou, Han Li
